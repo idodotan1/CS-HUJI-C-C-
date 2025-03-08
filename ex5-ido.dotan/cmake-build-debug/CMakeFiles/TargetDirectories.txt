@@ -1,0 +1,3 @@
+/mnt/c/Users/idodo/Desktop/לימודים/C & C++/ex5-ido.dotan/cmake-build-debug/CMakeFiles/ex5_ido_dotan.dir
+/mnt/c/Users/idodo/Desktop/לימודים/C & C++/ex5-ido.dotan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/idodo/Desktop/לימודים/C & C++/ex5-ido.dotan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
