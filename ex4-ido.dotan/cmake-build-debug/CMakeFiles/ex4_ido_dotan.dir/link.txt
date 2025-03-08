@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ex4_ido_dotan.dir/Activation.cpp.o CMakeFiles/ex4_ido_dotan.dir/Dense.cpp.o CMakeFiles/ex4_ido_dotan.dir/main.cpp.o CMakeFiles/ex4_ido_dotan.dir/Matrix.cpp.o CMakeFiles/ex4_ido_dotan.dir/MlpNetwork.cpp.o -o ex4_ido_dotan 
